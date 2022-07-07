@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(255,197,201);
+    background-image: url(https://drive.google.com/uc?id=1kgPXVB4QyPTSPRt5d69dHd7VAXEtF3wy);
+    background-position: right top;
+    background-repeat: repeat-y 
+  }
+  
+   table, td {
+    position: left;
+    border: 1px solid;
+    border-collapse: collapse;
+    background-color: white;
+  }  
